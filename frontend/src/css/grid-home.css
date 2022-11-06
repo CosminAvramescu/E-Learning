@@ -1,0 +1,54 @@
+.main-container {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  grid-template-rows: 1fr 8fr 1fr;
+  gap: 20px 20px;
+  padding: 20px 20px;
+  grid-template-areas:
+    "side-bar search-bar"
+    "side-bar content-container"
+    "side-bar footer";
+}
+.search-bar {
+  grid-area: search-bar;
+}
+.side-bar {
+  grid-area: side-bar;
+}
+.footer {
+  font-family: sans-serif;
+  position: fixed;
+  grid-area: footer;
+  background-color: rgb(228, 228, 228);
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 8px;
+  text-align: center;
+}
+.content-container {
+  grid-area: content-container;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.discover-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card-wrapper {
+  padding: 20px;
+}
+
+.home-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 20px 20px;
+  padding: 20px 20px;
+  grid-template-areas:
+    "course1 course2"
+    "course3 course4";
+}

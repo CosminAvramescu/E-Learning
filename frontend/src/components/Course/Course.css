@@ -1,0 +1,59 @@
+#uploadFile-button,
+#uploadQuiz-button,
+#shared-space {
+  color: black;
+  width: 70%;
+  justify-content: center;
+  background-color: rgb(187, 255, 255);
+  height: 50px;
+  margin-left: 5px;
+  border: none;
+  border-top: 1px solid black;
+}
+
+Button {
+  justify-content: center;
+}
+
+#uploadFile-button:hover {
+  opacity: 80%;
+}
+
+#uploadQuiz-button:hover {
+  opacity: 80%;
+}
+
+#card-content,
+#card {
+  background-color: rgb(255, 255, 255);
+  border: none;
+}
+
+#card {
+  margin-top: 30px;
+}
+
+form {
+  margin-top: 0;
+}
+
+.files,
+#quizzes {
+  text-align: center;
+  justify-content: center;
+}
+
+.files,
+.btn-primary {
+  margin: 5px;
+}
+
+header {
+  margin-top: 30px;
+}
+
+#wrapper-div {
+  text-align: center;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+}

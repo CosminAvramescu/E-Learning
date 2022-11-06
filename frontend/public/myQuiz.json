@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "question": "What was the title of the first Bond movie, released in 1962?",
+        "score": 2,
+        "noOfChoices": 4,
+        "options": [
+            {
+                "id": 1,
+                "variant": "Thunderball",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "variant": "From Russia With Love",
+                "isCorrect": false
+            },
+            {
+                "id": 3,
+                "variant": "Goldfinger",
+                "isCorrect": false
+            },
+            {
+                "id": 4,
+                "variant": "Dr. No",
+                "isCorrect": true
+            }
+        ],
+        "answer": "Dr. No"
+    },
+    {
+        "id": 2,
+        "question": "Who played Deputy Marshal Samuel Gerard in the 1993 film \"The Fugitive\"?",
+        "score": 2,
+        "noOfChoices": 4,
+        "options": [
+            {
+                "id": 5,
+                "variant": "Tommy Lee Jones",
+                "isCorrect": true
+            },
+            {
+                "id": 6,
+                "variant": "Harvey Keitel",
+                "isCorrect": false
+            },
+            {
+                "id": 7,
+                "variant": "Harrison Ford",
+                "isCorrect": false
+            },
+            {
+                "id": 8,
+                "variant": "Martin Landau",
+                "isCorrect": false
+            }
+        ],
+        "answer": "Tommy Lee Jones"
+    },
+    {
+        "id": 3,
+        "question": "Which actress danced the twist with John Travolta in 'Pulp Fiction'?",
+        "score": 2,
+        "noOfChoices": 4,
+        "options": [
+            {
+                "id": 9,
+                "variant": "Kathy Griffin",
+                "isCorrect": false
+            },
+            {
+                "id": 10,
+                "variant": "Pam Grier",
+                "isCorrect": false
+            },
+            {
+                "id": 11,
+                "variant": "Uma Thurman",
+                "isCorrect": true
+            },
+            {
+                "id": 12,
+                "variant": "Bridget Fonda",
+                "isCorrect": false
+            }
+        ],
+        "answer": "Uma Thurman"
+    },
+    {
+        "id": 4,
+        "question": "Who plays the character of Po in the Kung Fu Panda movies?",
+        "score": 2,
+        "noOfChoices": 4,
+        "options": [
+            {
+                "id": 13,
+                "variant": "Jack Black",
+                "isCorrect": true
+            },
+            {
+                "id": 14,
+                "variant": "McConahey Ramses",
+                "isCorrect": false
+            },
+            {
+                "id": 15,
+                "variant": "Mirana Jonnes",
+                "isCorrect": false
+            },
+            {
+                "id": 16,
+                "variant": "Jim Petersson",
+                "isCorrect": false
+            }
+        ],
+        "answer": "Jack Black"
+    },
+    {
+        "id": 5,
+        "question": "Who plays Jack Burton in the movie \"Big Trouble in Little China?\"",
+        "score": 2,
+        "noOfChoices": 4,
+        "options": [
+            {
+                "id": 17,
+                "variant": "Harrison Ford",
+                "isCorrect": false
+            },
+            {
+                "id": 18,
+                "variant": "Patrick Swayze",
+                "isCorrect": false
+            },
+            {
+                "id": 19,
+                "variant": "John Cusack",
+                "isCorrect": false
+            },
+            {
+                "id": 20,
+                "variant": "Kurt Russel",
+                "isCorrect": true
+            }
+        ],
+        "answer": "Kurt Russel"
+    }
+]

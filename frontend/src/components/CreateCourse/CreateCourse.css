@@ -1,0 +1,52 @@
+#description-div, #name-div{
+    background-color: white;
+    border-bottom: 1px solid black;
+    margin-bottom: 30px;
+}
+
+#create-button {
+    width: 100%;
+    justify-content: center;
+    background-color: lightcyan;
+    height: 50px;
+    border: none;
+    border-top: 1px solid black;
+}
+
+#title{
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+#create-button:hover{
+    opacity: 80%;
+}
+
+#dropdown-div{
+    background-color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#card-content, #card{
+    background-color: lightskyblue;
+    border: none;
+}
+
+#card{
+    margin-top: 120px;
+}
+
+form{
+    margin: 150px;
+}
+
+#wrapper-div{
+    background-color: lightskyblue;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
